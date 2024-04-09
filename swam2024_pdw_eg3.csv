@@ -1,0 +1,26 @@
+Source,Target,Interaction_Type,Timestamp,Duration,Topic,Sentiment
+Alice,Bob,Email,4/1/2024,0,Project Management,positive
+Bob,Charlie,Meeting,4/2/2024,30,Feedback,neutral
+Charlie,Alice,Instant Message,4/3/2024,0,Support,positive
+Alice,Eve,Email,4/4/2024,0,Project Management,negative
+Eve,Frank,Instant Message,4/5/2024,0,Support,positive
+Frank,Eve,Meeting,4/6/2024,45,Feedback,neutral
+George,Harry,Email,4/7/2024,0,Project Management,positive
+Harry,Ivy,Meeting,4/8/2024,30,Feedback,neutral
+Ivy,Jane,Email,4/9/2024,0,Support,positive
+Jane,Alice,Instant Message,4/10/2024,0,Project Management,negative
+Robert,Charlie,Email,4/11/2024,0,Support,positive
+Bob,Eve,Meeting,4/12/2024,30,Feedback,neutral
+Charlie,Frank,Instant Message,4/13/2024,0,Project Management,positive
+Eve,Robert,Email,4/14/2024,0,Support,negative
+Frank,Harry,Instant Message,4/15/2024,0,Feedback,positive
+George,Ivy,Meeting,4/16/2024,45,Project Management,neutral
+Harry,Jane,Email,4/17/2024,0,Support,positive
+Ivy,Alice,Meeting,4/18/2024,30,Feedback,neutral
+Jane,Robert,Email,4/19/2024,0,Project Management,positive
+Alice,Jane,Instant Message,4/20/2024,0,Support,negative
+Bob,Ivy,Email,4/21/2024,0,Feedback,positive
+Charlie,Harry,Meeting,4/22/2024,30,Project Management,neutral
+Eve,Robert,Instant Message,4/23/2024,0,Support,positive
+Frank,Alice,Email,4/24/2024,0,Feedback,negative
+Ivy,Eve,Instant Message,4/25/2024,0,Project Management,positive
